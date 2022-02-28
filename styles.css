@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+h1 {
+    margin-top: 0px;
+    color: rgb(252, 50, 101);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    text-align: center;
+    font-size: 36pt;
+    font-family: 'Comic Sans MS';
+}
+hr {
+    border-width: 2px;
+}
+a {
+    text-decoration: none;
+}
+.abody {
+    margin: 70px 160px 0px 160px;
+    padding: 20px 20px 40px 20px;
+    background-color: rgb(250, 159, 159);
+    outline-width: 8px;
+    outline-color: gray;
+    outline-style: outset;
+}
+.h {
+    color: rgb(255, 167, 189);
+}
+footer {
+    margin-right: 160px;
+    margin-bottom: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+}
